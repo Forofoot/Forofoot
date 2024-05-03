@@ -1,5 +1,5 @@
 <h1 align="left">Hi there ! I'm Erwan <img src="https://media0.giphy.com/media/Ui2MDWB7L6QesOYZWy/200.gif" width="50"></h1>
-<h2>About Me <img src=https://nijntjemiffy.carrd.co/assets/images/image01.gif?v=c50437e9" width="50"></h2>
+<h2>About Me <img src=https://nijntjemiffy.carrd.co/assets/images/image01.gif?v=c50437e9" width="70"></h2>
 <p>
   Working as an Intershop Developer at <a href="https://www.datasolution.fr/"><strong>DATASOLUTION</strong></a>, a full-service web agency with multiple areas of expertise. 
 </p>
