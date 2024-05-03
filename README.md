@@ -6,8 +6,8 @@
 
 <p>I love learning new technologies and enjoy problem solving.</p>
 
-<p>I am currently working on my <strong>portfolio</strong> in React</p>
-<p>Currently learning Solidity and other stuff around Web3 World. 🌱</p>
+<p>I am currently working on my <strong>portfolio</strong> in React<br>
+Currently learning Solidity and other stuff around Web3 World. 🌱</p>
 
 <h2>How to reach me <img src="https://media.tenor.com/UBuZg8IGsZkAAAAj/nijntje-vliegen.gif" width="50"></h2>
 <a href="https://www.linkedin.com/in/erwan-marques-web-developer/">Linkedin</a>
